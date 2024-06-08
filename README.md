@@ -14,7 +14,12 @@ Software Development Life Cycle (SDLC):
 From my understanding, traditional programming involves writing specific codes that instruct the computer on what to do. The Software Development Life Cycle is a cost-effective and time-efficient process which is used by software development teams to build high-quality software. 
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.Agile vs. Waterfall Models:
-
+ 1. Plan- this phase involves analysing the cost of the project at hand, the resources avaiable/required for it and the benefits that will arise from it.
+ 2. Design- this is where the team makes choices on the best technologies to use ofr the project.
+ 3. Implement- here, the plans and choices made earlier are put into place.
+ 4. Test- the testing phase involves checking for errors and ensuring that the goals have been met.
+ 5. Deploy- deployment involves releasing the product in phases or fully to the public to observe how it will work in the real consumer environment.
+ 6. Maintain- finally, the team manages any changes, fixes errors(bugs) and works to resolve any issues that may arise.
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 Requirements Engineering:
 
