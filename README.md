@@ -7,9 +7,11 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
+
 Software Engineering refers to a branch of Computer Science that focuses on the design, development, testing and maintenance of software applications.
 
 What is software engineering, and how does it differ from traditional programming?
+
 From my understanding, traditional programming involves writing specific codes that instruct the computer on what to do. The Software Development Life Cycle is a cost-effective and time-efficient process which is used by software development teams to build high-quality software. 
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
@@ -21,9 +23,11 @@ Explain the various phases of the Software Development Life Cycle. Provide a bri
  6. Maintain- finally, the team manages any changes, fixes errors(bugs) and works to resolve any issues that may arise.
     
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+
 Agile models promote shorter development life cycles and has a feedback loop that prioritizes customer feedback and changes that need to be made with regards to it. Waterfall models are where the traditional and logical sequence of steps are followed. From this definitions, it is clear that agile models are feedback-based while the waterfall models only provide feedback once the final stage of the process is completed. Agile is best to employ when developing software that is made for an industry that is constanlty changing. This way, adjustments can be made quicker when applying agile models. If the goals are clear and certain requirements have to be met, waterfall models are best to use.  
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+
 Requirements engineering refers to the process of identifying, analyzing, specifying, validating and managing the needs of the stakeholders of a software system. The requirements engineering process has the following stages:
 1. Feasibility- this stage involves analysis of the technical, operational and economic environment to ensure that they favor the development of the project.
 2. Requirements elicitation- this is where information about the needs and expectations of stakeholders for a software system are gathered. 
@@ -34,6 +38,7 @@ Requirements engineering refers to the process of identifying, analyzing, specif
    The requirements engineering process is important as it ensures that the software system created meets all the needs of the stakeholders.
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
+
 Modularity refers to the process of creating software modules. A module is a software component that has been created from a divided software. When specific changes are required, developers can focus on specific modules instead of having to go through the whole system, making maintenance easy. Modularity also enhances scalability by breaking down software components into smaller modules that can be reused.
 
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
@@ -48,12 +53,15 @@ Describe the different levels of software testing (unit testing, integration tes
   5. Software testing uncovers problems in the software before it is released to the public. This way, when it is released, customers are highly satisfied as the software meets their requirements.
 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
-  Version ontrol systems are software tools that help in recording changes made to files by keeping a track of modifications done in the code. They help the developer team to efficiently communicate and track changes made to their code. Some examples are GitHub, which is a repository for git projects, Beanstalk which also support git and PerForce which delivers the version control capabilities through its HelixCore.
+
+  Version control systems are software tools that help in recording changes made to files by keeping a track of modifications done in the code. They help the developer team to efficiently communicate and track changes made to their code. Some examples are GitHub, which is a repository for git projects, Beanstalk which also support git and PerForce which delivers the version control capabilities through its HelixCore.
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
+
 A software project manager takes the responsibility to manage software projects by carrying out planning, monitoring and control activities. Some of the challenges faced in software project management include lack of proper communication within teams, the struggle of keeping everyone on the same page and having to deal with unmotivated team members.
 
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
+
 Software maintenance is the process of changing, modifying and updating software to keep up with the demands of the customers. The types of maintenance activities are:
  1. Bug fixing- this involves finding and fixing errors.
  2. Enhancements- this is the process of adding new features or improving existing features
@@ -62,6 +70,7 @@ Software maintenance is the process of changing, modifying and updating software
 Maintenance must be performed in order to correct any present faults, improve the features and efficiency of the software so as to keep the existing customers satisfied and to attract new customers.
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
+
 Some of the ehical issues include Algorithmic bias, where developers program softwares to perform certain tasks that might favor them and weak security measures that are open to malicious hackers. In response to these issues, software engineers should ensure that they are always working towards the good of the customer and not themselves. Secondly, when dealing with sensitive data, software engineers must put tight security measures such as strong passwords into place.
 
 References
