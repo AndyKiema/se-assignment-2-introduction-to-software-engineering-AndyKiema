@@ -10,7 +10,6 @@ Define Software Engineering:
 Software Engineering refers to a branch of Computer Science that focuses on the design, development, testing and maintenance of software applications.
 
 What is software engineering, and how does it differ from traditional programming?
-Software Development Life Cycle (SDLC):
 From my understanding, traditional programming involves writing specific codes that instruct the computer on what to do. The Software Development Life Cycle is a cost-effective and time-efficient process which is used by software development teams to build high-quality software. 
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
@@ -63,8 +62,29 @@ Software maintenance is the process of changing, modifying and updating software
 Maintenance must be performed in order to correct any present faults, improve the features and efficiency of the software so as to keep the existing customers satisfied and to attract new customers.
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
-Submission Guidelines:
-Your answers should be well-structured, concise, and to the point.
-Provide real-world examples or case studies wherever possible.
-Cite any references or sources you use in your answers.
-Submit your completed assignment by [due date].
+Some of the ehical issues include Algorithmic bias, where developers program softwares to perform certain tasks that might favor them and weak security measures that are open to malicious hackers. In response to these issues, software engineers should ensure that they are always working towards the good of the customer and not themselves. Secondly, when dealing with sensitive data, software engineers must put tight security measures such as strong passwords into place.
+
+References
+
+https://www.techtarget.com/searchsoftwarequality/tip/5-examples-of-ethical-issues-in-software-development
+
+https://thedevpost.com/blog/challenges-in-software-project-management/#Time_constraint
+
+https://ca.indeed.com/career-advice/finding-a-job/software-engineering-vs-programming
+
+https://www.geeksforgeeks.org/software-development-life-cycle-sdlc/
+
+https://aws.amazon.com/what-is/sdlc/#:~:text=The%20software%20development%20lifecycle%20(SDLC,expectations%20during%20production%20and%20beyond.
+
+https://www.geeksforgeeks.org/software-engineering-requirements-engineering-process/
+
+https://www.institutedata.com/blog/modularity-in-software-engineering/
+
+https://selleo.com/blog/how-does-modular-software-architecture-improve-scalability
+
+https://www.ibm.com/topics/software-testing#:~:text=IBM-,What%20is%20software%20testing%3F,preventing%20bugs%20and%20improving%20performance.
+
+https://hackernoon.com/top-10-version-control-systems-4d314cf7adea
+
+https://www.geeksforgeeks.org/version-control-systems/
+
