@@ -55,7 +55,12 @@ Discuss the role of a software project manager. What are some key responsibiliti
 A software project manager takes the responsibility to manage software projects by carrying out planning, monitoring and control activities. Some of the challenges faced in software project management include lack of proper communication within teams, the struggle of keeping everyone on the same page and having to deal with unmotivated team members.
 
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
+Software maintenance is the process of changing, modifying and updating software to keep up with the demands of the customers. The types of maintenance activities are:
+ 1. Bug fixing- this involves finding and fixing errors.
+ 2. Enhancements- this is the process of adding new features or improving existing features
+ 3. Performance optimization- improving the general efficiency of software.
 
+Maintenance must be performed in order to correct any present faults, improve the features and efficiency of the software so as to keep the existing customers satisfied and to attract new customers.
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
 Submission Guidelines:
