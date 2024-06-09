@@ -52,7 +52,7 @@ What are version control systems, and why are they important in software develop
   Version ontrol systems are software tools that help in recording changes made to files by keeping a track of modifications done in the code. They help the developer team to efficiently communicate and track changes made to their code. Some examples are GitHub, which is a repository for git projects, Beanstalk which also support git and PerForce which delivers the version control capabilities through its HelixCore.
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
-
+A software project manager takes the responsibility to manage software projects by carrying out planning, monitoring and control activities. Some of the challenges faced in software project management include lack of proper communication within teams, the struggle of keeping everyone on the same page and having to deal with unmotivated team members.
 
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
 
