@@ -38,18 +38,18 @@ Explain the concept of modularity in software design. How does it improve mainta
 Modularity refers to the process of creating software modules. A module is a software component that has been created from a divided software. When specific changes are required, developers can focus on specific modules instead of having to go through the whole system, making maintenance easy. Modularity also enhances scalability by breaking down software components into smaller modules that can be reused.
 
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
-  Unit testing- This is the first level of testing where individual units or components of the software are tested. 
+  1. Unit testing- This is the first level of testing where individual units or components of the software are tested. 
 
-  Integration testing- this is the second level where the testers, not developers, conduct the testing. Here, individual software components are combined and tested as a group.
+  2. Integration testing- this is the second level where the testers, not developers, conduct the testing. Here, individual software components are combined and tested as a group.
 
-  System testing- here, all components are tested together to ensure that the specific requirements are met.
+  3. System testing- here, all components are tested together to ensure that the specific requirements are met.
 
-  Acceptance testing- this is the last level where a decision is made whether the software should be made accessible to the public.
+  4. Acceptance testing- this is the last level where a decision is made whether the software should be made accessible to the public.
 
-  Software testing uncovers problems in the software before it is released to the public. This way, when it is released, customers are highly satisfied as the software meets their requirements.
+  5. Software testing uncovers problems in the software before it is released to the public. This way, when it is released, customers are highly satisfied as the software meets their requirements.
 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
-
+  Version ontrol systems are software tools that help in recording changes made to files by keeping a track of modifications done in the code. They help the developer team to efficiently communicate and track changes made to their code. Some examples are GitHub, which is a repository for git projects, Beanstalk which also support git and PerForce which delivers the version control capabilities through its HelixCore.
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
 
