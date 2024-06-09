@@ -35,19 +35,19 @@ Requirements engineering refers to the process of identifying, analyzing, specif
    The requirements engineering process is important as it ensures that the software system created meets all the needs of the stakeholders.
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
-Testing in Software Engineering:
+Modularity refers to the process of creating software modules. A module is a software component that has been created from a divided software. When specific changes are required, developers can focus on specific modules instead of having to go through the whole system, making maintenance easy. Modularity also enhances scalability by breaking down software components into smaller modules that can be reused.
 
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
-Version Control Systems:
+
 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
-Software Project Management:
+
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
-Software Maintenance:
+
 
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
-Ethical Considerations in Software Engineering:
+
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
 Submission Guidelines:
