@@ -25,7 +25,14 @@ Compare and contrast the Agile and Waterfall models of software development. Wha
 Agile models promote shorter development life cycles and has a feedback loop that prioritizes customer feedback and changes that need to be made with regards to it. Waterfall models are where the traditional and logical sequence of steps are followed. From this definitions, it is clear that agile models are feedback-based while the waterfall models only provide feedback once the final stage of the process is completed. Agile is best to employ when developing software that is made for an industry that is constanlty changing. This way, adjustments can be made quicker when applying agile models. If the goals are clear and certain requirements have to be met, waterfall models are best to use.  
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
-Software Design Principles:
+Requirements engineering refers to the process of identifying, analyzing, specifying, validating and managing the needs of the stakeholders of a software system. The requirements engineering process has the following stages:
+1. Feasibility- this stage involves analysis of the technical, operational and economic environment to ensure that they favor the development of the project.
+2. Requirements elicitation- this is where information about the needs and expectations of stakeholders for a software system are gathered. 
+3. Requirements specification- the many requirements gathered are now narrowed down to a few that truly explain the requirements of the software system.
+4. Requirements verification and validation- this involves checking that the requirements for a software system are complete, consistent, and accurate and that they meet the needs and expectations of the stakeholders.
+5. Requirements management- requirements management is where the requirements are managed through analyzing, documenting, tracking and  prioritizing.
+
+   The requirements engineering process is important as it ensures that the software system created meets all the needs of the stakeholders.
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 Testing in Software Engineering:
